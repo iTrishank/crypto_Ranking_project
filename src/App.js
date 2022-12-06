@@ -28,15 +28,7 @@ export default function App() {
           <h1>Crypto Rankings</h1>
           <p>Top three</p>
         </div>
-        <iframe
-          src="https://ghbtns.com/github-btn.html?user=eduardconstantin&repo=Crypto-Rankings&type=star&count=true&size=large"
-          frameBorder="0"
-          scrolling="0"
-          width="120"
-          height="30"
-          title="GitHub"
-          className="github-stars"
-        ></iframe>
+        
       </div>
       <div className="row">
         {data?.coins.map((item) => (
