@@ -6,6 +6,6 @@ Web application developed using latest technologies that shows the top three cry
 - consuming apis using fetch: public api ([CoinStats](https://documenter.getpostman.com/view/5734027/RzZ6Hzr3))
 - configuring chart.js
 
-
-
+![](images/one.png)
+![](images/two.png)
 
